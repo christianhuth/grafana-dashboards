@@ -776,7 +776,7 @@
           "value": "$__all"
         },
         "hide": 0,
-        "includeAll": false,
+        "includeAll": true,
         "multi": false,
         "name": "DS_PROMETHEUS",
         "options": [],
