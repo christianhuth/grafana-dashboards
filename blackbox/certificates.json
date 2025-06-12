@@ -28,29 +28,6 @@
   "id": 21,
   "iteration": 1653319906375,
   "links": [
-    {
-      "asDropdown": true,
-      "icon": "external link",
-      "tags": [
-        "diz-sys"
-      ],
-      "title": "DIZ-SYS Dashboards",
-      "type": "dashboards"
-    },
-    {
-      "asDropdown": true,
-      "icon": "external link",
-      "includeVars": false,
-      "keepTime": false,
-      "tags": [
-        "diz-k8s"
-      ],
-      "targetBlank": false,
-      "title": "K8S-Dashboards",
-      "tooltip": "",
-      "type": "dashboards",
-      "url": ""
-    }
   ],
   "liveNow": false,
   "panels": [
